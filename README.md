@@ -1,3 +1,1 @@
-# hello-world
-
-My first website from scratch for class
+<My first website from scratch for class
